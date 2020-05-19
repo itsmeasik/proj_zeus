@@ -1,1 +1,5 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+clone the repo
+run `npm i`
+execute by `npm start`
+
+Its hosted automatically on push to https://allmylife.space
